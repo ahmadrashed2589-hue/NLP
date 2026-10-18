@@ -1,0 +1,41 @@
+# Large Model Weights (>50MB) - Store on Hugging Face Model Hub
+*.pt
+*.bin
+*.safetensors
+*.onnx
+*.h5
+*.tflite
+*.ckpt
+
+# Virtual Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Raw Large Datasets & Archives
+*.zip
+*.tar.gz
+*.csv.gz
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Node / Frontend
+**/node_modules/
+**/dist/
+.env
+.env.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Additional large data ignores
+bata_F1/
+**/bata_F1/
+*.zip
+*.mp4
+venv/
+**/venv/

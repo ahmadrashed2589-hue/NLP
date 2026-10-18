@@ -1,0 +1,2 @@
+Enter your text (أدخل النص هنا),Select Model (اختر النموذج),Predicted Emoji (الإيموجي المتوقع),Confidence (نسبة الثقة),timestamp
+I feel sad,Deep Learning (BERT),❌ الخطأ: النموذج غير موجود,يرجى تدريب BERT أولاً (python src/bert_model.py),2026-05-16 16:14:20.461952
